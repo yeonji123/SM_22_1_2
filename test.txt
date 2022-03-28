@@ -1,0 +1,5 @@
+1.branch 학습
+2.티처블머신 인공지능 모델 만들기
+3.xampp 서버 웹서비스 만들기
+localhost/ai.html
+c:/xampp/htdocs
