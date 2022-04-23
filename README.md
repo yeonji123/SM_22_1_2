@@ -16,4 +16,5 @@
 
 발표는 아쉽게도 대면 발표가 아닌 영상으로 만든 발표로 합니다.
 
-[Learn more about this project](https://www.codespeedy.com/human-detection-in-webcam-in-javascript-with-ml5-js/)
+자료는 ai_shose이며 오픈소스 최종과제란을 확인해주세요
+
