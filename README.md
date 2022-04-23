@@ -1,5 +1,4 @@
-# Human-Detection-in-ml5js-JavaScript
-[See the live demo](https://www.codespeedy.com/demophp/ml/humandetect.html)
+# 오픈소스 과제
 
 This smallproject is built using ml5js machine learning library. The ml5.js is built on top of TensorFlow.js library.
 
